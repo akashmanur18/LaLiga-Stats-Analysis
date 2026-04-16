@@ -54,7 +54,8 @@ This section is reserved for screenshots of the visualizations and dashboards ge
 
 ### Example Visualization
 
-![Dashboard Visualization](path/to/your/image.png)
+<img width="1281" height="720" alt="image" src="https://github.com/user-attachments/assets/6b350e9e-80ce-46b4-a5ae-c71c479ca3cd" />
+
 
 Replace `path/to/your/image.png` with the actual path to your visualization image.
 
