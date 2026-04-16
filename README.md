@@ -51,6 +51,15 @@ This project is licensed under the MIT License.
 ## Visualizations
 
 This section is reserved for screenshots of the visualizations and dashboards generated during the analysis. Add your images here to showcase the insights derived from the data.
+1 = <img width="1878" height="902" alt="image" src="https://github.com/user-attachments/assets/a0c47b11-6c8a-4724-844a-2d8dbd41fec0" />
+2 = <img width="1857" height="914" alt="image" src="https://github.com/user-attachments/assets/f8de0f35-ecc2-4600-93ac-6b2a44c50a79" />
+3 = <img width="1867" height="908" alt="image" src="https://github.com/user-attachments/assets/abd3d0a1-3a2b-450b-8b15-3807e53a34ce" />
+4 = <img width="1838" height="916" alt="image" src="https://github.com/user-attachments/assets/c9bba54c-cfb9-4d07-bc76-39f8c4de066a" />
+5 = <img width="1917" height="936" alt="image" src="https://github.com/user-attachments/assets/540ad077-348d-4ff6-b7d6-f9593d3cbc80" />
+6 = <img width="1900" height="917" alt="image" src="https://github.com/user-attachments/assets/ef9394ec-f38c-4f00-a6c5-2530ffc93958" />
+7 = <img width="1917" height="922" alt="image" src="https://github.com/user-attachments/assets/e5290e2f-c597-4333-86c5-da4068d10415" />
+8 = <img width="1830" height="940" alt="image" src="https://github.com/user-attachments/assets/eebb076b-8973-400e-9a70-3fd0fb9c8b76" />
+
 
 ### Example Visualization
 
